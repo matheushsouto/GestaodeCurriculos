@@ -1,0 +1,23 @@
+#divDadosPessoais{
+    box-shadow: 0px 0px 5px #497691;
+    font-size: 15px;
+    position: fixed;
+    padding: 2em;
+    left: 50%;
+    top: 25.8%;
+    transform: translateX(110%) scaleX(0.9);
+
+}
+
+#divDadosPessoais span{
+    font-weight: bolder;
+}
+
+#divDadosPessoais hr{
+    margin: 5px;
+}
+
+.btnEnvEnt{
+    margin-bottom: 20px;
+}
+

@@ -1,0 +1,73 @@
+td.btnShowCurriculo {
+    background: url('../img/search.png') no-repeat center center;
+    cursor: pointer;
+    padding: 5px;
+}
+
+tr {
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.selected {
+    background-color: #46aeff !important;
+}
+
+.bt_print_sel {
+    margin-bottom: 10px;
+}
+
+tr.contratado {
+    background-color: yellow;
+}
+
+.table-header {
+    background-color: #307ecc;
+    color: #FFF;
+    font-size: 14px;
+    line-height: 38px;
+    padding-left: 12px;
+    margin-bottom: 1px;
+}
+
+.dataTables_wrapper .row:first-child {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #EFF3F8;
+    margin: 0;
+}
+
+.dataTables_wrapper .row:last-child {
+    border-bottom: 1px solid #e0e0e0;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #EFF3F8;
+    margin: 0;
+}
+
+.table > thead:first-child > tr:first-child > th {
+    margin-top: 0;
+}
+
+.buttons-excel {
+    background-color: #5cb85c;
+    color: white;
+    font-weight: bolder;
+}
+
+.buttons-pdf {
+    background-color: #FF5442;
+    font-weight: bolder;
+    color: white;
+}
+
+.tableTools-container {
+    padding: 10px;
+}
+
+@media (min-width: 768px){
+    .form-inline .form-control {
+        width: 100%;
+    }
+}
+

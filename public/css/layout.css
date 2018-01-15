@@ -1,0 +1,41 @@
+
+#side-menu a:hover{
+    background-color: #90a4ae;
+    color: white;
+}
+
+#side-menu .active{
+    background-color: #263238;
+    color: white;
+}
+
+
+.navbar-default > .sidebar{
+    margin-top: 60px;
+}
+
+.navbar-default a{
+    color: white;
+}
+
+
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+.navbar-top-links, .navbar-header, .navbar-default{
+    background-color: #546E7A;
+}
+.navbar-top-links a{
+    color: white;
+}
+
+.panel-default>.panel-heading{
+    background-color: #9E9E9E;
+    color: white
+}
+
+.logo_curriculo_img{
+    width: 40%;
+    height: 70%;
+}

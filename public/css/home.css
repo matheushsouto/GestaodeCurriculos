@@ -1,0 +1,13 @@
+#addAnotacao{
+    margin-bottom: 10px;
+}
+
+#anotacoes .col-lg-12{
+    margin-bottom: 5px;
+    background-color: rgba(255, 252, 86, 0.53);
+}
+
+#anotacoes div a{
+    color: #2b2b2b;
+    cursor: pointer;
+}

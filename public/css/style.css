@@ -1,0 +1,37 @@
+body{
+    font-family: sans-serif ;
+    background-color: #cccccc;
+}
+
+body p{
+    margin-bottom: 10px;
+}
+
+#access_denied{
+    background-color: #C62626;
+    color: aliceblue;
+    margin-top: 20px;
+    text-align: center;
+    padding: 35px;
+    font-size: 35px;
+}
+
+#text{
+    margin: auto;
+    margin-top: 30px;
+    width: 75%;
+    height: 200px;
+    padding: 100px;
+    background-color: aliceblue;
+
+}
+
+#text_contato{
+    margin-top: 30px;
+    font-size: 19px;
+}
+
+#text_contato p {
+    margin: 0;
+}
+

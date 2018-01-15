@@ -1,0 +1,75 @@
+
+.ui-widget.ui-widget-content input, .ui-widget.ui-widget-content textarea{
+    background-color: #f2f2f2;
+}
+
+.ui-dialog .ui-dialog-titlebar {
+    padding: .4em 1em;
+    background-color: #1e62c5;
+    color: ghostwhite;
+    position: relative;
+}
+
+
+
+.divFormacao{
+    padding: 0px 20px 30px 20px;
+}
+
+.divFormacao button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#btnPegarData{
+    margin-top: 20%;
+}
+
+#btnMandMai1,#btnMandMai2,#btnMandMai3,#btnMandMai4{
+    margin-top: 15%;
+}
+
+#btnSavCur{
+    margin: 10px 20px 10px 20px;
+    font-size: 2rem;
+}
+
+.campo_obrigatorio{
+    color: red;
+}
+
+#areas_de_conhecimentos label{
+    margin-left: 50%;
+    font-weight: 100;
+}
+
+#modo_candidato{
+    margin: 2% 10% 2% 10% ;
+}
+
+.affix {
+    top: 20px;
+}
+
+
+.error{
+    font-size: 13px;
+    color: red;
+}
+
+.error_campo{
+    border-color: red;
+    margin-bottom: 5px;
+}
+
+#btnCadConsulta:hover, #btnCadEntrevista:hover, #btnCadAvaliacao:hover{
+    cursor: pointer;
+}
+
+
+
+.btn-lateral-show{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}

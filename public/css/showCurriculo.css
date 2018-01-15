@@ -1,0 +1,26 @@
+.cabecalho_curriculo{
+    border: 2px solid dodgerblue;
+    margin-bottom: 20px;
+    padding: 3px;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #0d6aad;
+}
+
+.dados_curriculo{
+    font-size: 1.5rem;
+}
+
+.pergunta{
+    font-weight: bold;
+}
+
+.cabecalho_pagina_curriculo{
+    margin-top: 20px;
+    font-size: 1.7rem;
+}
+
+.cabecalho_pagina_curriculo btn{
+    margin-left: 20px;
+}
+
